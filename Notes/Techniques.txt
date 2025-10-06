@@ -1,0 +1,14 @@
+# DSA Techniques references
+
+1. Two-Pointer Technique
+use: remove duplicate elements , moving or rearranging elements
+example: move zeros at end, Pair sum in sorted Array
+
+2.Sliding-Window Technique
+use: working with subarrays/substring in sequence 
+example:
+types-
+ 1. Fixed window: when window size is given.
+ 2. Variable window: when window size is determined by the condition.
+
+ 
